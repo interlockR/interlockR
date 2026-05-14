@@ -6,17 +6,17 @@ A security and research consultancy operating at the intersection of Web3 securi
 ## Services
 Web3 Security and Smart Contract Auditing -- Infrastructure Security Assessment -- Cybersecurity Research -- Financial Markets Analysis -- Web Development
 
-Full details at [vektasafe-dev.github.io](https://vektasafe-dev.github.io)
+Full details at [vektasafe.github.io](https://vektasafe.github.io)
 
 ---
 
 ## Work
 | Repository | Description | Status |
 |------------|-------------|--------|
-| [smart-contracts](https://github.com/vektasafe-dev/smart-contracts) | Solidity contracts and Ethernaut CTF writeups with exploit analysis | In Progress |
-| [cybersecurity](https://github.com/vektasafe-dev/cybersecurity) | Web2 attack research and PicoCTF writeups | In Progress |
-| [financial-markets](https://github.com/vektasafe-dev/financial-markets) | Tokenised forex and on-chain financial attack surface research | In Progress |
-| [ideas](https://github.com/vektasafe-dev/ideas) | Documented product innovation proposals | Active |
+| [smart-contracts](https://github.com/vektasafe/smart-contracts) | Solidity contracts and Ethernaut CTF writeups with exploit analysis | In Progress |
+| [cybersecurity](https://github.com/vektasafe/cybersecurity) | Web2 attack research and PicoCTF writeups | In Progress |
+| [financial-markets](https://github.com/vektasafe/financial-markets) | Tokenised forex and on-chain financial attack surface research | In Progress |
+| [ideas](https://github.com/vektasafe/ideas) | Documented product innovation proposals | Active |
 
 ---
 
@@ -36,18 +36,18 @@ Product Innovation  --  Documenting and developing ideas that solve real problem
 - Studying Web2 attack vectors on Web3 infrastructure
 - Exploring tokenised financial assets -- DeFi, RWAs, on-chain forex security
 - Completing PicoCTF challenges -- CyLab Security Academy
-- Open to engagements -- [vektasafe-dev.github.io](https://vektasafe-dev.github.io)
+- Open to engagements -- [vektasafe.github.io](https://vektasafe.github.io)
 
 ---
 
 ## Find Us
-[![Portfolio](https://img.shields.io/badge/Portfolio-vektasafe--dev.github.io-1a6b3c?style=flat-square&logo=github)](https://vektasafe-dev.github.io)
-[![GitHub](https://img.shields.io/badge/GitHub-vektasafe--dev-181717?style=flat-square&logo=github)](https://github.com/vektasafe-dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-vektasafe--dev.github.io-1a6b3c?style=flat-square&logo=github)](https://vektasafe.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-vektasafe--dev-181717?style=flat-square&logo=github)](https://github.com/vektasafe)
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vektasafe-dev&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=2e8b57&icon_color=2e8b57&text_color=f5f2eb" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vektasafe&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=2e8b57&icon_color=2e8b57&text_color=f5f2eb" alt="GitHub Stats" />
 </div>
 
 ---
