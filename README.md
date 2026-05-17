@@ -3,6 +3,12 @@ A security and research consultancy operating at the intersection of Web3 securi
 
 ---
 
+## Founder
+
+Built and operated by [James Kabingu](https://github.com/James-Kabingu) -- Computer Science student at Kenyatta University, Nairobi, Kenya.
+
+---
+
 ## Services
 Web3 Security and Smart Contract Auditing -- Infrastructure Security Assessment -- Cybersecurity Research -- Financial Markets Analysis -- Web Development
 
@@ -15,7 +21,8 @@ Full details at [vektasafe.github.io](https://vektasafe.github.io)
 |------------|-------------|--------|
 | [smart-contracts](https://github.com/vektasafe/smart-contracts) | Solidity contracts and Ethernaut CTF writeups with exploit analysis | In Progress |
 | [cybersecurity](https://github.com/vektasafe/cybersecurity) | Web2 attack research and PicoCTF writeups | In Progress |
-| [financial-markets](https://github.com/vektasafe/financial-markets) | Tokenised forex and on-chain financial attack surface research | In Progress |
+| [financial-markets](https://github.com/vektasafe/financial-markets) | Tokenised forex, DeFi market manipulation, and TradFi-DeFi convergence research | Complete |
+| [octio](https://github.com/vektasafe/octio) | On-Chain Threat Intelligence Oracle -- Gemma 4 powered Web3 threat intelligence | Active |
 | [ideas](https://github.com/vektasafe/ideas) | Documented product innovation proposals | Active |
 
 ---
@@ -41,8 +48,8 @@ Product Innovation  --  Documenting and developing ideas that solve real problem
 ---
 
 ## Find Us
-[![Portfolio](https://img.shields.io/badge/Portfolio-vektasafe--dev.github.io-1a6b3c?style=flat-square&logo=github)](https://vektasafe.github.io)
-[![GitHub](https://img.shields.io/badge/GitHub-vektasafe--dev-181717?style=flat-square&logo=github)](https://github.com/vektasafe)
+[![Portfolio](https://img.shields.io/badge/Portfolio-vektasafe.github.io-1a6b3c?style=flat-square&logo=github)](https://vektasafe.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-vektasafe-181717?style=flat-square&logo=github)](https://github.com/vektasafe)
 
 ---
 
